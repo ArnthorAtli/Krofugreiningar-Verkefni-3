@@ -1,10 +1,12 @@
 # Sýn og Afmörkun 
 
 ## Númer teymis og höfundar
-[Setjið inn númer teymis og fullt nafn höfunda verkefnis]
+Teymi 1
+Arnþór Atli Atlason
+Kristín Sesselja Róbertsdóttir
 
 ## Heiti kerfis
-[Setjið inn nafn kerfis]
+Sjálfvirkt bókasafnskerfi.
 
 
 ## Efnisyfirlit 
