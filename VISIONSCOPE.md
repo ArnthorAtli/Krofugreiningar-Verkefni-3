@@ -64,13 +64,29 @@ enterprise architectures, organizational strategic directions, and cost and reso
 
 
 ### 2.2 Umfang fyrstu útgáfu
-*(Skrifaðu þennan kafla )*
 
-[Describe the intended major features that will be included in the initial release of the product. 
-Consider the benefits the product is intended to bring to the various customer communities, and generally describe the 
-product features and quality characteristics that will enable it to provide those benefits. Avoid the temptation to 
-include every possible feature that any potential customer category might conceivably want some day.
-Focus on those features and product characteristics  that will provide the most value, at the most acceptable development cost, to the broadest community]
+#### Sjálfsafgreiðsla lána og skil á bókum
+- Notendur geta sjálfir skráð bækur út og inn í gegnum sjálfsafgreiðslustöð, sem dregur úr biðtíma og léttir álag á starfsfólki.
+#### Notendavænt viðmót
+- Skjár með skýrum leiðbeiningum, þannig að flestir eigi að geta notað kerfið án aðstoðar.
+#### Bækur
+- Kerfið mun geyma helstu upplýsingar um bækur (titil, höfund og útgáfuár) og geta tengt við láns- og skilaferlið.
+#### Notendur
+- Notendur skrá sig inn með bókasafnsskírteini eða QR kóða sem tryggir að hver bók sé tengd réttum lánþega.
+#### Tilkynningar
+- Tilkynningar með áminningum munu berast með tölvupósti til að minna á skiladag.
+
+#### Ávinningur
+- Fyrir notendur: Styttri afgreiðslutími og meiri þægindi við að nýta þjónustuna
+- Fyrir bókasafnsstarfsmenn: Minna álag við afgreiðslu.
+- Fyrir bókasafnið í heild: Bætt upplifun gesta og einfaldari yfirsýn yfir útlán.
+
+#### Gæði
+- Áreiðanleiki í útlánum og skilum
+- Viðmótið hannað með einfaldleika að leiðarljósi
+- Kerfið mun styðja við áframhaldandi þróun fyrir seinni útgáfur.
+
+
 
 ### 2.3 Takmarkanir og útilokanir
 
