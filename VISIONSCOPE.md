@@ -39,13 +39,19 @@ Sjálfvirkt bókasafnskerfi.
 
 
 ### 1.3 Viðskiptamarkmið
-*(Skrifaðu þennan kafla)*
+Markmið kerfisins er að gera bókasafnsferla einfaldari og hraðari. Helstu markmið eru:
+- Sjálfvirk skráning og stjórnun á bókum.
+- Einfalt útlánakerfi sem auðveldar notendum að fá bækur lánaðar.
+- Sjálfvirkar áminningar þegar bækur eru ekki skilaðar á réttum tíma.
+- Betri yfirsýn fyrir starfsfólk bókasafnsins til að sjá hvaða bækur eru í boði og hverjar eru útlánar.
+- Að auka ánægju notenda og minnka biðtíma.
 
 ### 1.4 Árangurs mælikvarðar
 
 
 ### 1.5 Framtíðarsýn
 *(Skrifaðu þennan kafla)*
+Framtíðarsýn kerfisins er að bókasöfn verði orðin sjálfvirkari og aðgengilegri. Notendur geta sjálfir séð hvaða bækur eru lausar, tekið þær í útlán og fengið sjálfvirkar áminningar án þess að þurfa að tala við starfsfólk. Starfsfólk getur þá frekar einbeitt sér að þjónustu og fræðslu frekar en endalausri skráningu og eftirliti. Með tímanum gæti kerfið tengst öðrum bókasöfnum eða rafrænum gagnagrunnum og þannig aukið aðgengi að efni fyrir alla. Þetta er skref í átt að nútímalegra bókasafni sem þjónar þörfum bæði nemenda og almennings.
 
 [Write a concise vision statement that summarizes the purpose and intent of the new product and describes what the world will be like when it 
 includes the product. The vision statement should reflect a balanced view that will satisfy the needs of diverse customers as well as those of 
