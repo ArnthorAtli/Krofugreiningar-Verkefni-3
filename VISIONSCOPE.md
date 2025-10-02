@@ -79,7 +79,7 @@ enterprise architectures, organizational strategic directions, and cost and reso
 - Kerfið mun geyma helstu upplýsingar um bækur (titil, höfund og útgáfuár) og geta tengt við láns- og skilaferlið.
 #### Notendur
 - Notendur skrá sig inn með bókasafnsskírteini eða QR kóða sem tryggir að hver bók sé tengd réttum lánþega.
-#### Tilkynningar
+#### Tilkynningar 
 - Tilkynningar með áminningum munu berast með tölvupósti til að minna á skiladag.
 
 #### Ávinningur
