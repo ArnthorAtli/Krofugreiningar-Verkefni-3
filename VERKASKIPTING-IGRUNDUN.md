@@ -12,6 +12,8 @@ Skrifið stutta lýsingu um hvernig þið
 Í lok verkefnis gerið endurmat á verkefninu  (1/2 - 1 síða)
 
 ### Kristín: 
+
+Ég bætti texta við skjalið STAKEHOLDERS, bæði frá origin (github.com) og með Visual Studio Code.
 Það gekk ekki nógu vel að gera commit og pull í Visual Studio Code eins og í síðasta verkefni, en ég náði að finna útúr því á endanum. Ég prufaði þessar skipanir í terminal: 
 - git pull
 - git fetch origin
@@ -21,6 +23,9 @@ Skrifið stutta lýsingu um hvernig þið
 
 að lokum gerði ég 
 - git fetch upstream (sem virkaði til að sækja allt það nýjasta frá main)
+
+Ég bætti við textann í VS code, og fannst virka best að gera nýtt branch, því ef ég gerði það beint frá main, þá skilaði það sér ekki inn í origin, þrátt fyrir að ég gerði commit og sync changes.
+
 
 #### Hvað gekk vel í verkefninu  
 Það gekk vel að skipta verkum á milli.
