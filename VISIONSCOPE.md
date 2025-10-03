@@ -1,9 +1,9 @@
 # Sýn og Afmörkun 
 
 ## Númer teymis og höfundar
-Teymi 1
-Arnþór Atli Atlason
-Kristín Sesselja Róbertsdóttir
+Teymi 1 <br>
+Arnþór Atli Atlason <br>
+Kristín Sesselja Róbertsdóttir <br>
 
 ## Heiti kerfis
 Sjálfvirkt bókasafnskerfi.
