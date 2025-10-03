@@ -101,7 +101,13 @@ enterprise architectures, organizational strategic directions, and cost and reso
 
 ## 3. Samhengi viðskipta
 ### 3.1 Prófílar forgangs hagsmunaaðila 
-*(Skrifaðu þennan kafla )*
+
+
+| Hagsmunaaðili | Helsti ávinningur| Viðhorf |  Hagsmunir  | Takmarkanir  | 
+|---------------|------------------|---------| ------------| ------------ | 
+| **Safngestir**  | EInfaldari og hraðari þjónusta, minni biðtími, betri yfirsýn yfir lán| Jákvæð, kerfið sparar tíma og veitir frelsi. Sumir þurfa aðstoð til að læra á sjálfsafgreiðslukerfið í byrjun.  | Sjálfsafgreiðsla ( útlán, skil og endurnýjun), aðgengi að lánasögu, einfalt og skýrt viðmót, áminningar í tölvupósti um skiladag og gjöld | Það þarf að hafa í huga að kerfið styður við mismunandi aldurshópa, og notendaviðmót þarf að hafa íslensku, ensku og pólsku, þetta þarf að vera aðgengilegt fyrir sjónskerta og hægt að nota rafræn skilríki.  | 
+
+
 
 [ Stakeholders are individuals, groups, or organizations that are actively involved in a project, are affected by its outcome, or can influence its outcome. The stakeholder profiles identify the customers for this product and other stakeholders, and states their major interests in the product. Characterize business-level customers, target market segments, and different user classes, to reduce the likelihood of unexpected requirements surfacing later that cannot be accommodated because of schedule or scope constraints. For each stakeholder category, the profile includes the major value or benefits they will receive from the product, their likely attitudes toward the product, major features and characteristics of interest, and any known constraints that must be accommodated. Examples of stakeholder value include:
 
