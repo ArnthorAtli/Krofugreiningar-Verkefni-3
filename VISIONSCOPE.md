@@ -102,7 +102,7 @@ enterprise architectures, organizational strategic directions, and cost and reso
 ## 3. Samhengi viðskipta
 ### 3.1 Prófílar forgangs hagsmunaaðila 
 
-Í þessu kerfi er einn notendahópur skráður sem forgangs hagsmunaaðili og það eru safngestir. 
+Í þessu kerfi eru safngestir eini notendahópurinn sem er skráður sem forgangs hagsmunaaðili.
 
 ### 1. [Safngestir]
 - **Staða:** [x] Forgangs  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
