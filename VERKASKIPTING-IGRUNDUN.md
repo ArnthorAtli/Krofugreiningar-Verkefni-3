@@ -21,7 +21,7 @@ Kristín: Það gekk ekki nógu vel að gera commit og pull í Visual Studio Cod
 að lokum gerði ég 
 - git fetch upstream (sem virkaði til að sækja allt það nýjasta frá main)
 
-#### Hvað gekk vel í verkefninu 
+#### Hvað gekk vel í verkefninu  
 Það gekk vel að skipta verkum á milli.
 
 #### Hvað má bæta næst 
