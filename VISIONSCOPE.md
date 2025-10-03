@@ -1,9 +1,9 @@
 # Sýn og Afmörkun 
 
 ## Númer teymis og höfundar
-Teymi 1
-Arnþór Atli Atlason
-Kristín Sesselja Róbertsdóttir
+Teymi 1 <br>
+Arnþór Atli Atlason <br>
+Kristín Sesselja Róbertsdóttir <br>
 
 ## Heiti kerfis
 Sjálfvirkt bókasafnskerfi.
@@ -29,7 +29,7 @@ Sjálfvirkt bókasafnskerfi.
     - [3.3 Innleiðingarsjónarmið](#33-deployment-considerations)
 
 ---
-> Hver kafli á að vera um það bil hálf síða að lengd.
+
 > 
 ## 1. Viðskiptakröfur
 ### 1.1 Bakgrunnur
@@ -50,13 +50,9 @@ Markmið kerfisins er að gera bókasafnsferla einfaldari og hraðari. Helstu ma
 
 
 ### 1.5 Framtíðarsýn
-*(Skrifaðu þennan kafla)*
+
 Framtíðarsýn kerfisins er að bókasöfn verði orðin sjálfvirkari og aðgengilegri. Notendur geta sjálfir séð hvaða bækur eru lausar, tekið þær í útlán og fengið sjálfvirkar áminningar án þess að þurfa að tala við starfsfólk. Starfsfólk getur þá frekar einbeitt sér að þjónustu og fræðslu frekar en endalausri skráningu og eftirliti. Með tímanum gæti kerfið tengst öðrum bókasöfnum eða rafrænum gagnagrunnum og þannig aukið aðgengi að efni fyrir alla. Þetta er skref í átt að nútímalegra bókasafni sem þjónar þörfum bæði nemenda og almennings.
 
-[Write a concise vision statement that summarizes the purpose and intent of the new product and describes what the world will be like when it 
-includes the product. The vision statement should reflect a balanced view that will satisfy the needs of diverse customers as well as those of 
-the developing organization. It may be somewhat idealistic, but it should be grounded in the realities of existing or anticipated customer markets, 
-enterprise architectures, organizational strategic directions, and cost and resource limitations ]
 ### 1.6 Viðskiptaáhætta
 
 
@@ -101,20 +97,22 @@ enterprise architectures, organizational strategic directions, and cost and reso
 
 ## 3. Samhengi viðskipta
 ### 3.1 Prófílar forgangs hagsmunaaðila 
-*(Skrifaðu þennan kafla )*
 
-[ Stakeholders are individuals, groups, or organizations that are actively involved in a project, are affected by its outcome, or can influence its outcome. The stakeholder profiles identify the customers for this product and other stakeholders, and states their major interests in the product. Characterize business-level customers, target market segments, and different user classes, to reduce the likelihood of unexpected requirements surfacing later that cannot be accommodated because of schedule or scope constraints. For each stakeholder category, the profile includes the major value or benefits they will receive from the product, their likely attitudes toward the product, major features and characteristics of interest, and any known constraints that must be accommodated. Examples of stakeholder value include:
+Í þessu kerfi eru safngestir eini notendahópurinn sem er skráður sem forgangs hagsmunaaðili.
 
-- improved productivity
-- reduced rework 
-- cost savings	
-- streamlined business processes	
-- automation of previously manual tasks	
-- ability to perform entirely new tasks or functions	
-- conformance to current standards or regulations	
-- improved usability or reduced frustration level compared to current applications
-]
-Setjið gjarnan upp í töflu sbr námsefnið 
+### Safngestir
+- **Staða:** [x] Forgangs  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
+- **Stærð:** ~[10.000 skráðir notendur, 300 á dag]  
+- **Lýsing:** [Fólk pantar, skilar og endurnýjar bækur sjálft í gegnum kerfið. Markmið er að stuðla að einfaldleika og hraða í þjónustu]
+
+| Hagsmunaaðili | Helsti ávinningur| Viðhorf |  Hagsmunir  | Takmarkanir  | 
+|---------------|------------------|---------| ------------| ------------ | 
+| **Safngestir**  | EInfaldari og hraðari þjónusta, minni biðtími, betri yfirsýn yfir lán, færri starfsmenn, sparnaður í rekstri| Jákvæð, kerfið sparar tíma og veitir frelsi. Sumir þurfa aðstoð til að læra á sjálfsafgreiðslukerfið í byrjun.  | Sjálfsafgreiðsla ( útlán, skil og endurnýjun), aðgengi að lánasögu, einfalt og skýrt viðmót, áminningar í tölvupósti um skiladag og gjöld | Það þarf að hafa í huga að kerfið styður við mismunandi aldurshópa, og notendaviðmót þarf að hafa íslensku, ensku og pólsku, þetta þarf einnig að vera aðgengilegt fyrir sjónskerta.| 
+
+
+
+
+
 
 
 ### 3.2 Forgangsröðun verkefnis 
