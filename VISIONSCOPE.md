@@ -125,16 +125,19 @@ Framtíðarsýn kerfisins er að bókasöfn verði orðin sjálfvirkari og aðge
 
 PS C:\Users\rober\OneDrive\tolvur\Krofugreiningar-Verkefni-3>  git log -n 5 --pretty=format:"| %an | %ad | %s | %h |" --date=short -n 10 -- VISIONSCOPE.md 
 
-| Kristin111222 | 2025-10-03 | Update VISIONSCOPE.md | 9d2927e |
-| Kristin111222 | 2025-10-03 | Update VISIONSCOPE.md | 30c1678 |
-| Kristin111222 | 2025-10-03 | Update VISIONSCOPE.md | 7d1b020 |
-| Kristin111222 | 2025-10-03 | Update VISIONSCOPE.md | 08ba997 |
-| Kristin111222 | 2025-10-03 | Update VISIONSCOPE.md | 0197cf4 |
-| Kristin111222 | 2025-10-03 | Update VISIONSCOPE.md | 18a960d |
-| Kristin111222 | 2025-10-03 | Update VISIONSCOPE.md | e2f81e9 |
-| Kristin111222 | 2025-10-03 | Update VISIONSCOPE.md | 7a20851 |
-| Kristin111222 | 2025-10-02 | Update VISIONSCOPE.md | 0ff25df |
-| ArnthorAtli | 2025-10-02 | 1.3 og 1.5 | 9cdd8d1 |
+| Author        | Date       | Message               | Commit   |
+|---------------|------------|-----------------------|----------|
+| Kristin111222 | 2025-10-03 | Update VISIONSCOPE.md | 9d2927e  |
+| Kristin111222 | 2025-10-03 | Update VISIONSCOPE.md | 30c1678  |
+| Kristin111222 | 2025-10-03 | Update VISIONSCOPE.md | 7d1b020  |
+| Kristin111222 | 2025-10-03 | Update VISIONSCOPE.md | 08ba997  |
+| Kristin111222 | 2025-10-03 | Update VISIONSCOPE.md | 0197cf4  |
+| Kristin111222 | 2025-10-03 | Update VISIONSCOPE.md | 18a960d  |
+| Kristin111222 | 2025-10-03 | Update VISIONSCOPE.md | e2f81e9  |
+| Kristin111222 | 2025-10-03 | Update VISIONSCOPE.md | 7a20851  |
+| Kristin111222 | 2025-10-02 | Update VISIONSCOPE.md | 0ff25df  |
+| ArnthorAtli   | 2025-10-02 | 1.3 og 1.5            | 9cdd8d1  |
+
 
 <!--
 Í stað þess að halda utan um alla commit-sögu er aðeins skráð formleg útgáfa (milestones) með Git tags (merkjum).  
