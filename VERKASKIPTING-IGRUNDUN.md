@@ -10,7 +10,20 @@ Skrifið stutta lýsingu um hvernig þið
 
 ## Ígrundun 
 Í lok verkefnis gerið endurmat á verkefninu  (1/2 - 1 síða)
-#### Hvað gekk vel í verkefninu 
+
+### Kristín: 
+Það gekk ekki nógu vel að gera commit og pull í Visual Studio Code eins og í síðasta verkefni, en ég náði að finna útúr því á endanum. Ég prufaði þessar skipanir í terminal: 
+- git pull
+- git fetch origin
+- git checkout main (þá kom: already on 'main')
+- git remote add upstream <verkefni3-Github-linkur>
+- git remote -v
+
+að lokum gerði ég 
+- git fetch upstream (sem virkaði til að sækja allt það nýjasta frá main)
+
+#### Hvað gekk vel í verkefninu  
 Það gekk vel að skipta verkum á milli.
 
 #### Hvað má bæta næst 
+Lesa betur í bókinni Software requirements
