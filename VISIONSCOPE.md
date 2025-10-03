@@ -29,7 +29,7 @@ Sjálfvirkt bókasafnskerfi.
     - [3.3 Innleiðingarsjónarmið](#33-deployment-considerations)
 
 ---
-> Hver kafli á að vera um það bil hálf síða að lengd.
+
 > 
 ## 1. Viðskiptakröfur
 ### 1.1 Bakgrunnur
@@ -50,13 +50,9 @@ Markmið kerfisins er að gera bókasafnsferla einfaldari og hraðari. Helstu ma
 
 
 ### 1.5 Framtíðarsýn
-*(Skrifaðu þennan kafla)*
+
 Framtíðarsýn kerfisins er að bókasöfn verði orðin sjálfvirkari og aðgengilegri. Notendur geta sjálfir séð hvaða bækur eru lausar, tekið þær í útlán og fengið sjálfvirkar áminningar án þess að þurfa að tala við starfsfólk. Starfsfólk getur þá frekar einbeitt sér að þjónustu og fræðslu frekar en endalausri skráningu og eftirliti. Með tímanum gæti kerfið tengst öðrum bókasöfnum eða rafrænum gagnagrunnum og þannig aukið aðgengi að efni fyrir alla. Þetta er skref í átt að nútímalegra bókasafni sem þjónar þörfum bæði nemenda og almennings.
 
-[Write a concise vision statement that summarizes the purpose and intent of the new product and describes what the world will be like when it 
-includes the product. The vision statement should reflect a balanced view that will satisfy the needs of diverse customers as well as those of 
-the developing organization. It may be somewhat idealistic, but it should be grounded in the realities of existing or anticipated customer markets, 
-enterprise architectures, organizational strategic directions, and cost and resource limitations ]
 ### 1.6 Viðskiptaáhætta
 
 
