@@ -100,14 +100,14 @@ Framtíðarsýn kerfisins er að bókasöfn verði orðin sjálfvirkari og aðge
 
 Í þessu kerfi eru safngestir eini notendahópurinn sem er skráður sem forgangs hagsmunaaðili.
 
-### 1. [Safngestir]
+### Safngestir
 - **Staða:** [x] Forgangs  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
 - **Stærð:** ~[10.000 skráðir notendur, 300 á dag]  
 - **Lýsing:** [Fólk pantar, skilar og endurnýjar bækur sjálft í gegnum kerfið. Markmið er að stuðla að einfaldleika og hraða í þjónustu]
 
 | Hagsmunaaðili | Helsti ávinningur| Viðhorf |  Hagsmunir  | Takmarkanir  | 
 |---------------|------------------|---------| ------------| ------------ | 
-| **Safngestir**  | EInfaldari og hraðari þjónusta, minni biðtími, betri yfirsýn yfir lán| Jákvæð, kerfið sparar tíma og veitir frelsi. Sumir þurfa aðstoð til að læra á sjálfsafgreiðslukerfið í byrjun.  | Sjálfsafgreiðsla ( útlán, skil og endurnýjun), aðgengi að lánasögu, einfalt og skýrt viðmót, áminningar í tölvupósti um skiladag og gjöld | Það þarf að hafa í huga að kerfið styður við mismunandi aldurshópa, og notendaviðmót þarf að hafa íslensku, ensku og pólsku, þetta þarf að vera aðgengilegt fyrir sjónskerta og hægt að nota rafræn skilríki.  | 
+| **Safngestir**  | EInfaldari og hraðari þjónusta, minni biðtími, betri yfirsýn yfir lán, færri starfsmenn, sparnaður í rekstri| Jákvæð, kerfið sparar tíma og veitir frelsi. Sumir þurfa aðstoð til að læra á sjálfsafgreiðslukerfið í byrjun.  | Sjálfsafgreiðsla ( útlán, skil og endurnýjun), aðgengi að lánasögu, einfalt og skýrt viðmót, áminningar í tölvupósti um skiladag og gjöld | Það þarf að hafa í huga að kerfið styður við mismunandi aldurshópa, og notendaviðmót þarf að hafa íslensku, ensku og pólsku, þetta þarf að vera aðgengilegt fyrir sjónskerta og hægt að nota rafræn skilríki.  | 
 
 
 
