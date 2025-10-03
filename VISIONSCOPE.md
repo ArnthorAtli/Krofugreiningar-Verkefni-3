@@ -104,10 +104,10 @@ enterprise architectures, organizational strategic directions, and cost and reso
 
 Í þessu kerfi er einn notendahópur skráður sem forgangs hagsmunaaðili og það eru safngestir. 
 
-[Safngestir]
-Staða: [x] Forgangs [ ] Óæskilegir [ ] Aðrir [ ] Óbeinn
-Stærð: ~[10.000 skráðir notendur, 300 á dag]
-Lýsing: [Fólk pantar, skilar og endurnýjar bækur sjálft í gegnum kerfið. Markmið er að stuðla að einfaldleika og hraða í þjónustu]
+### 1. [Safngestir]
+- **Staða:** [x] Forgangs  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
+- **Stærð:** ~[10.000 skráðir notendur, 300 á dag]  
+- **Lýsing:** [Fólk pantar, skilar og endurnýjar bækur sjálft í gegnum kerfið. Markmið er að stuðla að einfaldleika og hraða í þjónustu]
 
 | Hagsmunaaðili | Helsti ávinningur| Viðhorf |  Hagsmunir  | Takmarkanir  | 
 |---------------|------------------|---------| ------------| ------------ | 
