@@ -51,7 +51,7 @@ Markmið kerfisins er að gera bókasafnsferla einfaldari og hraðari. Helstu ma
 
 ### 1.5 Framtíðarsýn
 
-Framtíðarsýn kerfisins er að bókasöfn verði orðin sjálfvirkari og aðgengilegri. Notendur geta sjálfir séð hvaða bækur eru lausar, tekið þær í útlán og fengið sjálfvirkar áminningar án þess að þurfa að tala við starfsfólk. Starfsfólk getur þá frekar einbeitt sér að þjónustu og fræðslu frekar en endalausri skráningu og eftirliti. Með tímanum gæti kerfið tengst öðrum bókasöfnum eða rafrænum gagnagrunnum og þannig aukið aðgengi að efni fyrir alla. Þetta er skref í átt að nútímalegra bókasafni sem þjónar þörfum bæði nemenda og almennings.
+Framtíðarsýn kerfisins er að bókasöfn verði orðin sjálfvirkari og aðgengilegri. Notendur geta sjálfir séð hvaða bækur eru lausar, tekið þær í útlán og fengið sjálfvirkar áminningar án þess að þurfa að tala við starfsfólk. Starfsfólk getur þá frekar einbeitt sér að þjónustu og fræðslu frekar en endalausri skráningu og eftirliti. Með tímanum gæti kerfið tengst öðrum bókasöfnum eða rafrænum gagnagrunnum og þannig aukið aðgengi að efni fyrir alla. Þetta getur sparðað bókasafnseigenda pening í starfskrafti til lengri tíma. Þetta er skref í átt að nútímalegra bókasafni sem þjónar þörfum bæði bókasafnsrekenda og lánþega.
 
 ### 1.6 Viðskiptaáhætta
 
