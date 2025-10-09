@@ -43,7 +43,7 @@ Markmið kerfisins er að gera bókasafnsferla einfaldari og hraðari. Helstu ma
 - Sjálfvirk skráning og stjórnun á bókum.
 - Einfalt útlánakerfi sem auðveldar notendum að fá bækur lánaðar.
 - Sjálfvirkar áminningar þegar bækur eru ekki skilaðar á réttum tíma.
-- Betri yfirsýn fyrir starfsfólk bókasafnsins til að sjá hvaða bækur eru í boði og hverjar eru útlánar.
+- Betri yfirsýn fyrir starfsfólk bókasafnsins til að sjá hvaða bækur eru í boði og hverjar eru í útláni.
 - Að auka ánægju notenda og minnka biðtíma.
 
 ### 1.4 Árangurs mælikvarðar
